@@ -41,7 +41,8 @@ function updatePresence(client){
                     "hero": client.gamestate.hero.name
                 };
 
-                console.log(data);
+                //console.log(data);
+                console.log(client.gamestate.hero)
             }else{
                 console.log("!hero")
             }

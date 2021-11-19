@@ -19,6 +19,7 @@
   "dependencies": {
     "child_process": "^1.0.2",
     "dota2-gsi": "^1.0.2",
+    "dota2-minimap-hero-sprites": "^2.4.0",
     "express": "^4.17.1"
   }
 }
