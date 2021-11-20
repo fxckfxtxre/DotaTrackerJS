@@ -3,7 +3,7 @@ from PIL.Image import NEAREST
 
 
 name = "npc_dota_hero_marci"
-path = "./assets/Marci_minimap_icon.png"
+path = "./unknown (3).png"
 
 img = Image.open(path)
 img = img.resize((512, 512), NEAREST)
